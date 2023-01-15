@@ -1,13 +1,13 @@
 Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,LOCATION,EU
-QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2017,12826,ha,67047.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2018,12827,ha,57980.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2019,12828,ha,63480.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2020,12829,ha,46990.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2017,12830,hg/ha,101672.0,E,Estimated value,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2018,12831,hg/ha,83732.0,E,Estimated value,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2019,12832,hg/ha,93787.0,E,Estimated value,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2020,12833,hg/ha,77659.0,E,Estimated value,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2017,12834,tonnes,681679.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2018,12835,tonnes,485480.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2019,12836,tonnes,595360.0,A,Official figure,IRL,1.0
-QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2020,12837,tonnes,364920.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2017,2017,ha,67047.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2018,2018,ha,57980.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2019,2019,ha,63480.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5312,Area harvested,111,Wheat,2020,2020,ha,46990.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2017,2017,hg/ha,101672.0,E,Estimated value,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2018,2018,hg/ha,83732.0,E,Estimated value,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2019,2019,hg/ha,93787.0,E,Estimated value,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5419,Yield,111,Wheat,2020,2020,hg/ha,77659.0,E,Estimated value,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2017,2017,tonnes,681679.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2018,2018,tonnes,485480.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2019,2019,tonnes,595360.0,A,Official figure,IRL,1.0
+QCL,Crops and livestock products,372,Ireland,5510,Production,111,Wheat,2020,2020,tonnes,364920.0,A,Official figure,IRL,1.0
